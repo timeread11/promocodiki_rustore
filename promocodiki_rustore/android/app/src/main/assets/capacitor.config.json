@@ -1,0 +1,10 @@
+{
+	"appId": "ru.promocodiki",
+	"appName": "Промокодики",
+	"webDir": "out",
+	"server": {
+		"url": "https://promocodiki.ru",
+		"cleartext": true,
+		"errorPath": "error.html"
+	}
+}
